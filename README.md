@@ -1,6 +1,6 @@
 # Tetris Game  
   
-<img src="./images/gpt_tetris1.png" width=40%> &nbsp;&nbsp; <img src="./images/gpt_tetris2.png" width=40%>
+<img src="./images/gpt_tetris02.gif" width=40%> &nbsp;&nbsp; <img src="./images/gpt_tetris2.png" width=40%>
   
 tetris_game.py is a Tetris Game code produced by prompting the OpenAI Codex engine. I have not modified the generated code. Also, there was a graphic glitch while clearing the bottom line.\
 Codex is an AI system that translates natural language to code. In this case it's Python code.
