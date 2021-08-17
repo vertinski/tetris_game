@@ -1,0 +1,4 @@
+#Define a python function which is a very compact tetris game.
+#Display playing field using pygame library.
+
+import pygame
