@@ -1,3 +1,5 @@
+#Produced by prompting the OpenAI Codex engine. This line is not a part of the prompt.
+
 #Define a python function which is a very compact tetris game.
 #Display playing field using pygame library.
 
